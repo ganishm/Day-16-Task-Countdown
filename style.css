@@ -1,0 +1,40 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  } */
+
+  body{
+    background-color: rgb(236, 122, 56);
+  }
+
+#countdown {
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    color: #fff;
+    background: #3498db;
+    border-radius: 10px;
+    width: 311px;
+    height: 174px;
+    line-height: 55px;
+    margin: 100px auto;
+    box-shadow: 0 25px 19px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  #independence-message {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #3498db;
+    margin-top: 20px;
+  }
+  
+  h1{
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .countdownElement{
+text-align: center;
+  }
